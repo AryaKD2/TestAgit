@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAgit", "TestAgit\TestAgit.csproj", "{DAA3AB19-EFBE-4968-AE52-9D11218C52DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAA3AB19-EFBE-4968-AE52-9D11218C52DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA3AB19-EFBE-4968-AE52-9D11218C52DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA3AB19-EFBE-4968-AE52-9D11218C52DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA3AB19-EFBE-4968-AE52-9D11218C52DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6DB5B31-974C-405C-BC9F-27BCD928A38D}
+	EndGlobalSection
+EndGlobal
